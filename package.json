@@ -1,0 +1,19 @@
+{
+  "name": "javascript-apirest-practico-movies",
+  "version": "1.0.0",
+  "description": "Curso Practico de consumo de API REST con javascript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JUAN-MANUEL-LEAL/Javascript-apirest-practico-movies.git"
+  },
+  "author": "Juan Manuel Leal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JUAN-MANUEL-LEAL/Javascript-apirest-practico-movies/issues"
+  },
+  "homepage": "https://github.com/JUAN-MANUEL-LEAL/Javascript-apirest-practico-movies#readme"
+}
